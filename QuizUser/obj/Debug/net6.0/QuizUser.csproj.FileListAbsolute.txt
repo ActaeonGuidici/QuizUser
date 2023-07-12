@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\QuizUser\QuizUser\bin\Debug\net6.0\QuizUser.exe
+C:\Users\user\source\repos\QuizUser\QuizUser\bin\Debug\net6.0\QuizUser.deps.json
+C:\Users\user\source\repos\QuizUser\QuizUser\bin\Debug\net6.0\QuizUser.runtimeconfig.json
+C:\Users\user\source\repos\QuizUser\QuizUser\bin\Debug\net6.0\QuizUser.dll
+C:\Users\user\source\repos\QuizUser\QuizUser\bin\Debug\net6.0\QuizUser.pdb
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\QuizUser.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\QuizUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\QuizUser.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\QuizUser.AssemblyInfo.cs
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\QuizUser.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\QuizUser.dll
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\refint\QuizUser.dll
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\QuizUser.pdb
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\QuizUser.genruntimeconfig.cache
+C:\Users\user\source\repos\QuizUser\QuizUser\obj\Debug\net6.0\ref\QuizUser.dll
